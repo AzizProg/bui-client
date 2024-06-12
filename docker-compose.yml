@@ -3,7 +3,7 @@ services:
   bui-client:
     container_name: bui-client
     env_file:
-      - .env.dev
+      - .env
     build: 
       context: .
       dockerfile: Dockerfile
