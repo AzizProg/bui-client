@@ -11,10 +11,26 @@ Others parts:
 ---
 # Overview
 ## Homepage
+<img width="1283" alt="homepage" src="https://github.com/AzizProg/bui-client/assets/112016586/4c4d1ff6-d897-44c5-9d36-b5f6c6f7f0b1">
+
 ## Login page
+<img width="1296" alt="login" src="https://github.com/AzizProg/bui-client/assets/112016586/e170b4b3-2751-4198-aba7-53cbbdd8d8f9">
+
 ## Dashboard page
+<img width="1283" alt="dashboard" src="https://github.com/AzizProg/bui-client/assets/112016586/aa134b6d-13d0-44b5-b7d9-a5b1c3c06131">
+
 ## Transactions page
-## Clients page
+<img width="1283" alt="transactions" src="https://github.com/AzizProg/bui-client/assets/112016586/e50e889b-f1f0-4729-8691-40c66d8ff37b">
+
+### Details transaction page
+<img width="1283" alt="Transaction details" src="https://github.com/AzizProg/bui-client/assets/112016586/29f96b76-c730-4c85-bfe0-c072378840ae">
+
+## Customers page
+<img width="1283" alt="customers" src="https://github.com/AzizProg/bui-client/assets/112016586/32f82c15-3bef-46d0-ab23-c17be784d8f4">
+
+### Details customer page
+<img width="1283" alt="customer details" src="https://github.com/AzizProg/bui-client/assets/112016586/729821a2-8a12-41af-a38f-6a24f9ae897f">
+
 ---
 # Description
 
