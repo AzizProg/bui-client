@@ -8,7 +8,14 @@ I completed three tasks for BuiCorporation's Software Engineer technical test (b
 Others parts:
 * [Backend with Nest Js](https://github.com/AzizProg/bui-api)
 * [Mobile with Flutter]()
-
+---
+# Overview
+## Homepage
+## Login page
+## Dashboard page
+## Transactions page
+## Clients page
+---
 # Description
 
 ## What was requested
@@ -23,7 +30,7 @@ Others parts:
 - Tailwind CSS for styling and component customization
 - Docker to isolate my dependencies and facilitate deployment
 
-## Ce que j'ai réalisé
+## What I accomplished
 - A homepage similar to [buicorporation](https://buicorporation.com/)
 - A login page to authenticate collaborators who are supposed to monitor wallet transactions
 - A dashboard page to view transaction statistics and the number of registered clients
@@ -36,7 +43,7 @@ Others parts:
 - Pagination
 - Using cookies to store the token
 - A middleware to protect access to certain routes for unauthenticated users 
-
+---
 # Project Structure
 ```
 src
@@ -70,7 +77,7 @@ src
 └── styles/ for global styles to apply to pages
 
 ```
-
+---
 # Installation
 ### Step 1:
 - Clone this repository.
@@ -84,7 +91,7 @@ API_BASE_URL=http://bui-api:3001/api/v1
 JWT_SECRET_KEY="isASecret"
 ```
 _**NB**: Make sure you have created the .env file and set the environment variables or simply use the one I have intentionally left at the root of the project containing the pre-defined variables; otherwise, the application startup process will not work._
-
+---
 # Usage
 
 ## With Docker
@@ -100,14 +107,7 @@ docker network inspect bui-network
 ```
 This should display the information of the network that was created or joined (if bui-api was launched first) when you launched the application as defined in the docker-compose.yml file.
 In the information returned by this command, look for the "containers" section, and you should find the container you just created.
-
-# Overview
-## Homepage
-## Login page
-## Dashboard page
-## Transactions page
-## Clients page
-
+---
 # Challenge
 
 ## Next.js
