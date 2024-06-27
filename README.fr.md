@@ -8,8 +8,17 @@ J'ai réalisé trois tâches pour le test technique de Software Engineer de BuiC
 </br>
 Pour consulter les autres parties:
 * [Backend avec Nest Js](https://github.com/AzizProg/bui-api)
-* [Mobile avec Flutter]()
+* [Mobile avec Flutter](https://github.com/AzizProg/bui-mobile)
 
+---
+# Aperçu
+
+### Page d'accueille
+### Page de connexion
+### Page dashboard
+### Page des transactions
+### Page des customers
+---
 # Description
 
 ## Ce qui m'a été demandé
@@ -40,7 +49,7 @@ Pour consulter les autres parties:
 - La pagination
 - L'utilisation des cookies pour stocker le token
 - Un middleware pour protéger l'accès a certains routes aux utilisateurs non authentifié 
-
+---
 # Structure du projet
 ```
 src
@@ -74,7 +83,7 @@ src
 └── styles/ pour le style global a appliquer aux pages
 
 ```
-
+---
 # Installation
 ### Étape 1 :
 - Récupérer ce repository.
@@ -88,7 +97,7 @@ API_BASE_URL=http://bui-api:3001/api/v1
 JWT_SECRET_KEY="isASecret"
 ```
 _**NB **: Assurez-vous d'avoir créé le fichier **.env **et défini les variables d'environnement ou simplement d'utiliser celui que j'ai volontairement laissé à la racine du projet contenant les variables déjà définies, sinon le processus de démarrage de l'application ne fonctionnera pas._
-
+---
 # Utilisation
 
 ## Avec Docker
@@ -106,14 +115,7 @@ docker network inspect bui-network
 Ceci devrait afficher les informations du réseau qui a été crée ou rejoint(si le **bui-api** à été lancé en premier) lorsque vous avez lancé l'application comme défini dans le fichier **Docker-compose.yml**.
 Dans les informations renvoyés par cette commande , cherchez  la section "containers" et vous devriez retrouvez le container vous venez de crée.
 
-# Aperçu
-
-### Page d'accueille
-### Page de connexion
-### Page dashboard
-### Page des transactions
-### Page des customers
-
+---
 # Challenge
 
 ## Nextjs
