@@ -7,7 +7,7 @@ I completed three tasks for BuiCorporation's Software Engineer technical test (b
 
 Others parts:
 * [Backend with Nest Js](https://github.com/AzizProg/bui-api)
-* [Mobile with Flutter]()
+* [Mobile with Flutter](https://github.com/AzizProg/bui-mobile)
 ---
 # Overview
 ## Homepage
